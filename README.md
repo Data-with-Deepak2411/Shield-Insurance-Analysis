@@ -84,7 +84,3 @@ Video Presentation link - [Linkedin-Post-URL](https://youtu.be/GYFPy3NU8cw?si=v6
 
 Live Dashboard - [Power-BI-Service](https://app.powerbi.com/view?r=eyJrIjoiYWVkNjY4ZDEtY2MxOS00MjgxLWE0MDYtOWZlN2RiYTViOGJmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-----
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details
